@@ -1,14 +1,3 @@
----
-title: BinGENIUS – Smart Waste Classifier
-emoji: ♻️
-colorFrom: green
-colorTo: blue
-sdk: gradio
-sdk_version: 4.44.1
-app_file: app.py
-pinned: false
----
-
 # ♻️ BinGENIUS – AI-Powered Waste Classification
 
 **BinGENIUS** is an AI-powered waste classification application that uses Deep Learning and Computer Vision to automatically identify and categorize waste into **Organic** and **Recyclable** categories.
